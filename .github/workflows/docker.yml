@@ -32,5 +32,6 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            veronicavicent/imagen:latest
+            veronicavicent/imagen:nuevoplaneta
+
             
